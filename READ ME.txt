@@ -1,0 +1,11 @@
+READ ME
+
+Open a Terminal in the folder where the files are.
+
+Write make and wait for compilation.
+
+Type in the same terminal "./SendApp localhost 4182 4562 SendFileName"
+
+You're all set! Check the terminal for the results.
+
+Fernando Coelho. 
